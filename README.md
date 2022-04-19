@@ -13,23 +13,24 @@ Escolhi desenvolver o projeto por meio do jupyter notebook por conta da facilida
 
 * [Jupyter](https://jupyter.org)
 
+## IRuby [![Gem Version](https://badge.fury.io/rb/iruby.svg)](https://badge.fury.io/rb/iruby)
 Para executar o ruby dentro de um Jupyter notebook
 ```
-$ gem install iruby
+$ gem install iruby 
 ```
-
+## Open-Uri [![Gem Version](https://badge.fury.io/rb/open-uri.svg)](https://badge.fury.io/rb/open-uri)
 Open-uri e ultilizado para baixar os dados por meio de requisições http
 ```
 $ gem install open-uri
 ```
 
-
+## Mongo [![Gem Version](https://badge.fury.io/rb/mongo.svg)](https://badge.fury.io/rb/mongo)
 Conexão com o banco de dados pelo ruby
 ```
 $ gem install mongo
 ```
 
-
+## Zip [![Gem Version](https://badge.fury.io/rb/rubyzip.svg)](https://badge.fury.io/rb/rubyzip)
 Lidando com arquivos .zip
 ```
 gem install rubyzip
