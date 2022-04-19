@@ -35,3 +35,4 @@ Lidando com arquivos .zip
 ```
 gem install rubyzip
 ```
+Depois da instalação das Gem's necessárias basta executar o jupyter notebook em sequência, eu tentei deixar os blocos de código bem divididos, separando e explicando o que cada bloco está fazendo no código.
